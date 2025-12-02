@@ -13,9 +13,10 @@
   },
   "author": "Moaz Yousaf",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2"
+  },
   "devDependencies": {
-    "json2csv": "^6.0.0-alpha.2",
     "jest": "^29.5.0"
   }
 }
