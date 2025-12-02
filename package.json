@@ -1,0 +1,17 @@
+{
+  "name": "j2c-wizard",
+  "version": "1.0.0",
+  "description": "Convertitore JSON to CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {
+    "json2csv": "^6.0.0"
+  }
+}
