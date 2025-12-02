@@ -10,6 +10,4 @@ function convertToCsv(jsonData) {
   return csv;
 }
 
-// Manca qualcosa qui? O forse è giusto così in CommonJS?
-// Controlla come viene importato in index.js
-exports.convertToCsv = convertToCsv;
+module.exports = { convertToCsv };
